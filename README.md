@@ -18,3 +18,15 @@ View your app in AI Studio: https://ai.studio/apps/drive/1jY0w-WIANZYjAvXKWmsbnO
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+   `npm run dev`
+
+## Upload to GitHub
+
+1.  Create a new repository on GitHub (do not initialize with README/gitignore).
+2.  Run the following commands in your terminal:
+
+```bash
+git remote add origin <YOUR_GITHUB_REPO_URL>
+git branch -M main
+git push -u origin main
+```
