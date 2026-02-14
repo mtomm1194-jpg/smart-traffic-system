@@ -1,0 +1,7 @@
+{
+  "name": "智畅通 - 智能交通管理系统",
+  "description": "基于5G多维感知的交通信号灯智能管控系统，提供实时监控、远程控制与告警中心功能。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
